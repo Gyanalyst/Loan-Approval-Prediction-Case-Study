@@ -33,26 +33,41 @@ _Automate the loan eligibility process (real-time) based on customer detail prov
 
 ## Features of our data :-
 LoanID = Unique Loan ID
+
 Gender = Male/ Female
+
 Married = Applicant married (Y/N)
+
 Dependents = Number of dependents
+
 Education = Applicant Education (Graduate/ Under Graduate)
 SelfEmployed = Self-employed (Y/N)
+
 ApplicantIncome = Applicant income
+
 CoapplicantIncome = Coapplicant income
+
 LoanAmount = Loan amount in thousands
+
 LoanAmountTerm = Term of the loan in months
+
 CreditHistory = Credit history
+
 PropertyArea= Urban/ Semi-Urban/ Rural
+
 LoanStatus = (Target) Loan approved (Y/N)
 
 ## Skills :-
 **Programming Language:** *Python (Pandas, NumPy, Matplotlib, Seaborn)*
+
 **Model:** *KNeighborsClassifier, SVC, DecisionTreeClassifier, LogisticRegression, GaussianNB, RandomForestClassifier*
+
 **Best Model Selection:** *LogisticRegression*
+
 _[ Logistic regression can be used for our model as its giving effective training testing accuracy ]_
 
 # Contact Info :-
 
 ## Linkedln : https://www.linkedin.com/in/gyan-ashish/
+
 ## Email : gyanashish753@gmail.com
