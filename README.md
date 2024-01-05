@@ -3,16 +3,27 @@
 _In this Notebook , We are going to solve the Loan Approval Prediction.This is a Classification problem in which we need to classify whether the loan will be approved or not._
 
 # **Table of Contents:**
+
 **• Introduction**
+
 **• Business Problem**
+
 **• Importing Modules**
+
 **• Dataset Analysis**
+
 **• Handling Missing Values - Categorical & Numerical**
+
 **• Outliers Detection & Handling**
+
 **• Analysis Categorical Data with Target**
+
 **• Data Preparation**
+
 **• Handling Imbalance Data**
+
 **• Creating Multiple Model & Choose The Ideal One**
+
 **• Model Building**
 
 ## Problem Statement :-
