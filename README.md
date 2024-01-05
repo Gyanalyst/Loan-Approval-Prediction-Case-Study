@@ -61,7 +61,7 @@ LoanStatus = (Target) Loan approved (Y/N)
 ## Skills :-
 **Programming Language:** *Python (Pandas, NumPy, Matplotlib, Seaborn)*
 
-**Model:** *KNeighborsClassifier, SVC, DecisionTreeClassifier, LogisticRegression, GaussianNB, RandomForestClassifier*
+**Model:** *KNN Classifier, SVC, Decision Tree Classifier, Logistic Regression, GaussianNB, Random Forest Classifier*
 
 **Best Model Selection:** *LogisticRegression*
 
