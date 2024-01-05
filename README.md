@@ -2,30 +2,6 @@
 
 _In this Notebook , We are going to solve the Loan Approval Prediction.This is a Classification problem in which we need to classify whether the loan will be approved or not._
 
-# **Table of Contents:**
-
-**• Introduction**
-
-**• Business Problem**
-
-**• Importing Modules**
-
-**• Dataset Analysis**
-
-**• Handling Missing Values - Categorical & Numerical**
-
-**• Outliers Detection & Handling**
-
-**• Analysis Categorical Data with Target**
-
-**• Data Preparation**
-
-**• Handling Imbalance Data**
-
-**• Creating Multiple Model & Choose The Ideal One**
-
-**• Model Building**
-
 ## Problem Statement :-
 _Automate the loan eligibility process (real-time) based on customer detail provided while filling the online application form. These details are Gender, Marital Status, Education, Number of Dependents, Income, Loan Amount, Credit History, and others._
 
@@ -56,6 +32,31 @@ CreditHistory = Credit history
 PropertyArea= Urban/ Semi-Urban/ Rural
 
 LoanStatus = (Target) Loan approved (Y/N)
+
+# **Table of Contents:**
+
+**• Introduction**
+
+**• Business Problem**
+
+**• Importing Modules**
+
+**• Dataset Analysis**
+
+**• Handling Missing Values - Categorical & Numerical**
+
+**• Outliers Detection & Handling**
+
+**• Analysis Categorical Data with Target**
+
+**• Data Preparation**
+
+**• Handling Imbalance Data**
+
+**• Creating Multiple Model & Choose The Ideal One**
+
+**• Model Building**
+
 
 ## Skills :-
 **Programming Language:** *Python (Pandas, NumPy, Matplotlib, Seaborn)*
