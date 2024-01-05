@@ -70,7 +70,7 @@ Certainly, based on the analysis conducted in the provided code:
 
   - **Data Transformation:** Log transformation was applied to numeric features to normalize their distributions for better model performance.
 
-- **Categorical Analysis:**
+- ### Categorical Analysis:**
 
   - **Loan Approval Rates:** Married individuals tend to have higher loan approval rates compared to unmarried applicants.
 
